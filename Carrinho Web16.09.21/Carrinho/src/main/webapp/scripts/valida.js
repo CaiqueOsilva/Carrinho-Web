@@ -3,7 +3,7 @@
  */
 /**
  * Validao de campos obrigatorios
-@author Vinicius Akio
+@author Caique O.Silva
  */
 //passo 2 slide 21
 function validar() {
